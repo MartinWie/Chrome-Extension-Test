@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Sharp Printer Remote Unlocker",
     "version": "1.0",
-    "description": "A small browser extension that enables the \"Release Operation Lock Status (File/Folder)\" button from remote access. Tested on Sharp MX-3071",
+    "description": "A small browser extension that enables the \"Release Operation Lock Status (File/Folder)\" button from remote access.",
     "permissions": ["storage", "scripting", "tabs", "activeTab"],
     "background": {
         "service_worker": "background.js"
