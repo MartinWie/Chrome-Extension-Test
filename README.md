@@ -12,7 +12,7 @@ This extension allows users to remotely unlock printer folders, simplifying the 
 
 ### Chrome store
 
-TBD
+https://chromewebstore.google.com/detail/fficejifkdaihkegfhienpidgdmfimng
 
 
 ### Manual:
